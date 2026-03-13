@@ -15,7 +15,7 @@ Saya adalah seorang **Calon Pranata Komputer Muda** yang berfokus pada pengemban
 - **Lainnya:** Git, Laragon, Moodle LMS Management.
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdj_stmik&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrdj-stmik&show_icons=true&theme=tokyonight)
 
 ---
 *“Transforming data into information, and information into insight.”*
